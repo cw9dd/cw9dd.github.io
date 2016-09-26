@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About This Website\"\n---\n\nMore about this website.",
+    "created" : 1474916054654.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2444316855",
+    "id" : "54B544AD",
+    "lastKnownWriteTime" : 1474916067,
+    "last_content_update" : 1474916067808,
+    "path" : "~/GitHub/cw9dd/try-markdown/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
